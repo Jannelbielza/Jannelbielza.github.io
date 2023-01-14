@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Hello! I'm Jannel!"
+title: "Why I majored in MIS"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-13
 published: true
