@@ -1,19 +1,19 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Why I majored in MIS"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2023-01-13
 published: true
 labels:
-  - Software Engineering
-  - Learning
+  - Coding
+  - Introductions
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+When I was a student in high school, I always tell people that I wanted to become a software engineer and work at a big tech company at Silicon Valley. I was fixated to overcome that dream one day so I took an AP Computer Science course. The first coding language I learned was Javascript and it was tough for me. First, I thought coding was very easy because I used to watch a lot of YouTube videos of people coding. Taking a course in Javascript really humbled me becuase of the amount of bugs I had to fix on my homework assignment. However, I didn't gave up on coding and I really enjoyed the challeneges of writing a program. Taking a course in computer science in high school made me want to major in computer science when I entered college.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+As my first year of college comes around, I began my studies in B.S. of Computer Science. I was really excited to step into the path of my dream career to become a software engineer. The first computer science course I took at UH was ICS 111. I didn't know what to expect but I remember I was excited to take this course and I thought it would be a bit easier since I had some experience in coding. The beginning of the course, I remembered the first assignment was to write "hello world!" Throughout the semester of this course, the assignments got way harder and difficult to understand. Also this happened during the pandemic, I didn't know anyone that's taking that course. I remember staying up till 3 AM just to finish an assignment. The work got increasingly hard for me that I made the decision to change my major to MIS.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+I changed my major to MIS because I also had an interest in learning about business and I didn't want to give up on learning coding. I still have a passion for tech, creativity, and finding solutions so that's why I majored in MIS.
