@@ -11,8 +11,8 @@
       { "network": "github", "username": "jannelbielza", "url": "http://github.com/jannelbielza" },
       { "network": "linkedin", "username": "jbielza", "url": "http://linkedin.com/in/jbielza" },
       { "network": "instagram", "username": "j.xnnel", "url": "http://instagram.com/j.xnnel" }
-    ]
-  },
+      
+  ],
   "interests": [
     { "name": "UI/UX Design" },
     { "name": "Project Management" },
@@ -37,8 +37,6 @@
       "studyType": "B.A.",
       "startDate": "2020",
       "endDate": "Present",
-      "courses": [
-      ]
     }
   ],
   "work": [
