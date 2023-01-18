@@ -11,23 +11,23 @@
       { "network": "github", "username": "jannelbielza", "url": "http://github.com/jannelbielza" },
       { "network": "linkedin", "username": "jbielza", "url": "http://linkedin.com/in/jbielza" },
       { "network": "instagram", "username": "j.xnnel", "url": "http://instagram.com/j.xnnel" }
-      
-  ],
+    ]
+  },
   "interests": [
     { "name": "UI/UX Design" },
     { "name": "Project Management" },
-    { "name": "Tech" },
-    { "name": "The Sims 4" },
-    { "name": "Anime" }
+    { "name": "Web developing" },
+    { "name": "Film Cameras" },
+    { "name": "Gaming" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+      "keywords": [ "Python", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
@@ -35,8 +35,10 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Management Information Systems (expected Spring, 2024)",
       "studyType": "B.A.",
-      "startDate": "2020",
+      "startDate": "2020-09-01",
       "endDate": "Present",
+      "courses": [
+      ]
     }
   ],
   "work": [
@@ -44,19 +46,24 @@
       "company": "Hawaii Community College | Ko Education Center",
       "position": "Student Intern",
       "website": "https://hawaii.hawaii.edu/ko",
-      "startDate": "May 2022",
-      "endDate": "July 2022",
-      "summary": "Collaborated with an Oakland-based nonprofit organization, Ikuna, to create a survey to get a better understanding of how the student feels about their culture, identity, and purpose. Gained skills in design thinking, survey development and project management.",
+      "startDate": "2022-06-01",
+      "endDate": "2022-07",
+      "Summary": [
+        "Collaborated with an Oakland-based nonprofit organization, Ikuna, to create a survey to get a better understanding of how the student feels about their culture, identity, and purpose. Gained skills in design thinking, survey development and project management."
+      ]
     },
     {
-      "company": "Hawaii Community College | Ko Education Center",
-      "position": "Student Intern",
+      "company": "Hawaii community College | Ko Education Center",
+      "position": "Project Intern",
       "website": "https://hawaii.hawaii.edu/ko",
-      "startDate": "January 2020",
-      "endDate": "June 2020",
-      "summary": "Collaborated with high school students on a real-world project for local business, Arc of Kona. Improved skills in communication, professionalism, networking, ethical behavior, and critical thinking in the workplace; Gained skills in design thinking and financial literacy.",
+      "startDate": "2020-01",
+      "endDate": "2020-06",
+      "Summary": [
+        "Collaborated with high school students on a real-world project for local business, Arc of Kona. Improved skills in communication, professionalism, networking, ethical behavior, and critical thinking in the workplace; Gained skills in design thinking and financial literacy."
+      ]
     }
   ],
+
   "references": [
     {
       "name": "Available upon request"
