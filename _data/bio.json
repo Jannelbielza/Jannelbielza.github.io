@@ -14,9 +14,9 @@
     ]
   },
   "interests": [
-    { "name": "UI/UX Design" },
+    { "name": "Travel" },
     { "name": "Project Management" },
-    { "name": "Web developing" },
+    { "name": "International Business" },
     { "name": "Film Cameras" },
     { "name": "Gaming" }
   ],
@@ -33,7 +33,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected Spring, 2024)",
+      "area": "Management Information Systems & International Business (expected Summer, 2024)",
       "studyType": "B.A.",
       "startDate": "2020-09-01",
       "endDate": "Present",
