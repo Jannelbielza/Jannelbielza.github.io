@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="E5: Reflecting on Assignment 2 Technical Essay | Jannel Bielza | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://avatars.githubusercontent.com/u/122326357?v=4">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Jannel Bielza | Professional Portfolio">
+    <meta property="og:url" content="https://jannelbielza.github.io/E5:%20Reflecting%20on%20Assignment%202%20Technical%20Essay">
+    <meta property="og:title" content="E5: Reflecting on Assignment 2 Technical Essay | Jannel Bielza | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://avatars.githubusercontent.com/u/122326357?v=4">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>E5: Reflecting on Assignment 2 Technical Essay | Jannel Bielza | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Jannel Bielza</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">E5: Reflecting on Assignment 2 Technical Essay</h1>
+  <span class="date">24 Apr 2023</span>
+  <hr>
+  1. Provide a brief introduction to the assignment along with a link to this page for further detail: For assignment 2, I was assigned to IR5. I had to create a code that keeps track of the number of users currently logged in to the site and display the number with the personalization information. For example: Welcome Jannel! There are 4 users currently using this system."
+
+2. What did you learn from this assignment?: What I learned from this assignment is the request.body() function. It is basically data sent by the client to the API. Also I learned about the response.body() which is the data your API sends to the client.
+
+3. Did you work with a partner? Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself): For this tough assignment, I unfortunately worked by myself. It was really difficult but it was a learning experience. 
+
+4. How did you get help when you needed it? What did you need help with? I asked Professor Port for help when I needed the most this time, especially when my product_data.js wasn't working for some reason. I also used Google and Youtube for inspiration. 
+
+5. How was developing this assignment different than assignment #1?: Developing this assignment was different than assignment 1, especially the part where we had to create the login and registration form. It was really fun creating the forms using HTML and CSS. Making the code for the validation was a bit tricky.
+
+6. Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging: 50% debugging, 30% writing code, 20% thinking about how to do something.
+
+7. Describe what worked well with this project? What did not work well?: I was able to connect my app.post for login and registration. Making the code for validation was aight but for some reason I had no idea how to make it work. What didn't work well was making IR5 and proceeding the forms to the invoice.
+
+8. If you could go back in time and do things differently, what would you do differently?: Make the login and registration design earlier. I was kind of slacking on it because I was still recovering from assignment 1 (I struggled a whole lot). 
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
