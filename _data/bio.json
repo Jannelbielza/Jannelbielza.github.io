@@ -5,61 +5,70 @@
     "picture": "https://avatars.githubusercontent.com/u/122326357?v=4",
     "email": "jbielza@hawaii.edu",
     "website": "https://jannelbielza.github.io",
-    "summary": "I am studying for a B.A. in Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am studying for a B.B.A in Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jannelbielza", "url": "http://github.com/jannelbielza" },
-      { "network": "linkedin", "username": "jbielza", "url": "http://linkedin.com/in/jbielza" },
-      { "network": "instagram", "username": "j.xnnel", "url": "http://instagram.com/j.xnnel" }
+      { "network": "linkedin", "username": "jbielza", "url": "http://linkedin.com/in/jbielza" }
     ]
   },
   "interests": [
     { "name": "Travel" },
-    { "name": "Project Management" },
-    { "name": "International Business" },
+    { "name": "Data Science" },
+    { "name": "cats" },
     { "name": "Film Cameras" },
     { "name": "Gaming" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "Java", "Javascript" ]
+      "keywords": [ "Python", "Javascript", "R", "SQL", "Node.js", "Tableau" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "g++" ]
+      "keywords": [ "MacOS", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems & International Business (expected Summer, 2024)",
-      "studyType": "B.A.",
+      "area": "Management Information Systems",
+      "studyType": "B.B.A",
       "startDate": "2020-09-01",
-      "endDate": "Present",
-      "courses": [
+      "endDate": "2024-08-11",
+      "courses": [ "Programming Application Systems", "Networking & Security", "Project Management", "Information Systems Analysis & Design", "Amazon Web Services", "Database Systems"
       ]
     }
   ],
-  "work": [
+   "work": [
     {
-      "company": "Hawaii Community College | Ko Education Center",
-      "position": "Student Intern",
+      "company": "Breast Cancer Hawaii",
+      "position": "Resource Library Intern",
+      "website": "https://www.breastcancerhawaii.org/",
+      "startDate": "2024-02-01",
+      "endDate": "Current",
+      "Summary": [
+        "Rebuilt a comprehensive resource database and revamped the website experience for the resource library, compiling credible sources on breast cancer topics to ensure accurate and reliable information. Led a redesign of the library section, enhancing site design, navigation, and accessibility, which significantly increased user engagement and satisfaction."
+      ]
+    },
+    {
+      "company": "Hawaii Community College | Ko Education Center Dragon Den",
+      "position": "Data Team Intern",
       "website": "https://hawaii.hawaii.edu/ko",
       "startDate": "2022-06-01",
       "endDate": "2022-07",
       "Summary": [
-        "Collaborated with an Oakland-based nonprofit organization, Ikuna, to create a survey to get a better understanding of how the student feels about their culture, identity, and purpose. Gained skills in design thinking, survey development and project management."
+        "Led a data-driven initiative in collaboration with the Ikuna Group, a nonprofit in Oakland, CA, to examine high school students' perceptions of culture, identity, and purpose through a student survey project. Administered surveys across multiple platforms, ensuring a diverse and representative sample to enhance data quality. Developed detailed questionnaires to assess program effectiveness, achieving a 15% improvement in curriculum alignment and a 20% increase in program retention. Synthesized survey data into comprehensive reports, delivering actionable insights to stakeholders that supported data-driven decision-making for program enhancements."
       ]
     },
     {
       "company": "Hawaii community College | Ko Education Center",
-      "position": "Project Intern",
-      "website": "https://hawaii.hawaii.edu/ko",
-      "startDate": "2020-01",
+      "position": "Web Design Intern",
+      "website": "https://www.arcofkona.org/",
+      "startDate": "2020-01-",
       "endDate": "2020-06",
       "Summary": [
-        "Collaborated with high school students on a real-world project for local business, Arc of Kona. Improved skills in communication, professionalism, networking, ethical behavior, and critical thinking in the workplace; Gained skills in design thinking and financial literacy."
+        "Led a strategic consultation with the CEO/President of Arc of Kona to analyze website performance metrics, identifying key areas to enhance user experience and engagement. Spearheaded a data-driven website overhaul using Squarespace, creating an intuitive interface that increased user engagement by 30%. Collaborated cross-functionally with designers, content creators, and developers to implement a modern, functional design aligned with organizational goals and user needs. Leveraged data insights and teamwork to ensure that website objectives reflected the organization’s mission, resulting in a cohesive online presence and clearer communication of key messages."
       ]
     }
   ],
